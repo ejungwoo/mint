@@ -1,0 +1,13 @@
+*.[ao]
+*.os
+*.so
+*.log
+*.dat
+*.out
+*.root
+~
+
+temp/
+bin/
+
+mint
